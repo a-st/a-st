@@ -5,6 +5,17 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 #### 🏆 Trophies
 <img src="https://github-stat-trophies.vercel.app/?username=a-st&theme=darkhub&margin-w=15&margin-h=15&column=6"/>
 
+#### 📈 Stats
+
+<div class="flex-container">
+<img width="49%" height="175" src="https://github-stats-extended.vercel.app/api?username=a-st&custom_title=Github%20Stats&hide_border=true&show_icons=true&hide_rank=true&include_all_commits=true&disable_animations=true&theme=transparent"/>
+<img width="49%" height="175" src="https://github-stats-extended.vercel.app/api/top-langs?username=a-st&layout=compact&hide_border=true&disable_animations=true&theme=transparent"/>
+</div>
+<div class="flex-container">
+<img width="49%" height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-st&theme=transparent"/>
+<img width="49%" height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a-st&theme=transparent"/>
+</div>
+
 #### 🚀 Check out what I'm currently working on
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
@@ -24,10 +35,3 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 {{range followers 5}}
 - [<img src="{{.AvatarURL}}" height="20" /> {{.Login}}]({{.URL}})
 {{- end}}
-
-
-#### 📝 Top languages
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=a-st&hide_title=true&disable_animations=true&theme=transparent"/>
-
-#### 📈 Stats
-<img src="https://github-stats-extended.vercel.app/api?username=a-st&hide_title=true&show_icons=true&hide_rank=true&include_all_commits=true&disable_animations=true&theme=transparent"/>
