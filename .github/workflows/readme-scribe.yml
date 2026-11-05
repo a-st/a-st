@@ -9,6 +9,9 @@ jobs:
   markscribe:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
@@ -24,7 +27,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN_RW }}
         with:
           branch: main
-          commit_message: Update generated README
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_message: Update README
