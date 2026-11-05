@@ -5,6 +5,17 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 #### 🏆 Trophies
 <img src="https://github-stat-trophies.vercel.app/?username=a-st&theme=darkhub&margin-w=15&margin-h=15&column=6"/>
 
+#### 📈 Stats
+
+<div class="flex-container">
+<img width="49%" height="175" src="https://github-stats-extended.vercel.app/api?username=a-st&custom_title=Github%20Stats&hide_border=true&show_icons=true&hide_rank=true&include_all_commits=true&disable_animations=true&theme=transparent"/>
+<img width="49%" height="175" src="https://github-stats-extended.vercel.app/api/top-langs?username=a-st&layout=compact&hide_border=true&disable_animations=true&theme=transparent"/>
+</div>
+<div class="flex-container">
+<img width="49%" height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-st&theme=transparent"/>
+<img width="49%" height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a-st&theme=transparent"/>
+</div>
+
 #### 🚀 Check out what I'm currently working on
 
 - [a-st/sample-repo-renovate-pr-47717](https://github.com/a-st/sample-repo-renovate-pr-47717) - A sample repository for Renovate PR #47717
@@ -31,10 +42,3 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 - [<img src="https://avatars.githubusercontent.com/u/53240089?v=4" height="20" /> Kazumi7884](https://github.com/Kazumi7884)
 - [<img src="https://avatars.githubusercontent.com/u/13569827?v=4" height="20" /> identities](https://github.com/identities)
 - [<img src="https://avatars.githubusercontent.com/u/72575602?u=2847049c39542b42c79465c099c0e2eee6e9acb2&amp;v=4" height="20" /> OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-
-
-#### 📝 Top languages
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=a-st&hide_title=true&disable_animations=true&theme=transparent"/>
-
-#### 📈 Stats
-<img src="https://github-stats-extended.vercel.app/api?username=a-st&hide_title=true&show_icons=true&hide_rank=true&include_all_commits=true&disable_animations=true&theme=transparent"/>
