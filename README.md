@@ -25,13 +25,13 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 
 #### 📦 Latest releases I contributed to
 
-- [jenkinsci/performance-plugin](https://github.com/jenkinsci/performance-plugin) ([1024.ve69e11844523](https://github.com/jenkinsci/performance-plugin/releases/tag/1024.ve69e11844523), 4 days ago) - Performance Test Running and Reporting for Jenkins CI
+- [jenkinsci/performance-plugin](https://github.com/jenkinsci/performance-plugin) ([1024.ve69e11844523](https://github.com/jenkinsci/performance-plugin/releases/tag/1024.ve69e11844523), 5 days ago) - Performance Test Running and Reporting for Jenkins CI
 
 #### 🤝 The last 10 repositories I contributed to
 
-- [a-st/bitbucket-pipelines-pipe-eslint-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-eslint-reporting) - Bitbucket Pipelines Pipe for ESLint Reporting (today)
-- [a-st/sample-repo-renovate-pr-47717](https://github.com/a-st/sample-repo-renovate-pr-47717) - A sample repository for Renovate PR #47717 (today)
-- [a-st/bitbucket-pipelines-pipe-fsrt-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-fsrt-reporting) - Bitbucket Pipelines Pipe for FSRT Reporting (3 days ago)
+- [a-st/bitbucket-pipelines-pipe-eslint-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-eslint-reporting) - Bitbucket Pipelines Pipe for ESLint Reporting (1 day ago)
+- [a-st/bitbucket-pipelines-pipe-fsrt-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-fsrt-reporting) - Bitbucket Pipelines Pipe for FSRT Reporting (1 day ago)
+- [a-st/sample-repo-renovate-pr-47717](https://github.com/a-st/sample-repo-renovate-pr-47717) - A sample repository for Renovate PR #47717 (1 day ago)
 - [fluent/fluent-bit-docs](https://github.com/fluent/fluent-bit-docs) - Fluent Bit - Official Documentation (2 weeks ago)
 - [jenkinsci/performance-plugin](https://github.com/jenkinsci/performance-plugin) - Performance Test Running and Reporting for Jenkins CI (1 month ago)
 
