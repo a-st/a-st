@@ -41,7 +41,7 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 
 #### 👥 Check out some of my recent followers
 
-- [<img src="https://avatars.githubusercontent.com/u/180943377?u=2fa27eaa3bf1b990eed1059a8b480a20f01b0be2&amp;v=4" height="20" /> prankapple](https://github.com/prankapple)
+- [<img src="https://avatars.githubusercontent.com/u/180943377?u=e7e1a884bc26cd43d30a74ac1eb9d3b27744b390&amp;v=4" height="20" /> prankapple](https://github.com/prankapple)
 - [<img src="https://avatars.githubusercontent.com/u/128409641?u=1fa2b7eafd9b3701271c08df9284b84e7e3bd193&amp;v=4" height="20" /> wesleyscholl](https://github.com/wesleyscholl)
 - [<img src="https://avatars.githubusercontent.com/u/53240089?v=4" height="20" /> Kazumi7884](https://github.com/Kazumi7884)
 - [<img src="https://avatars.githubusercontent.com/u/13569827?v=4" height="20" /> identities](https://github.com/identities)
