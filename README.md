@@ -26,14 +26,14 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 
 #### 📦 Latest releases I contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.239.1](https://github.com/renovatebot/renovate/releases/tag/44.239.1), 2 days ago) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.240.0](https://github.com/renovatebot/renovate/releases/tag/44.240.0), today) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jenkinsci/performance-plugin](https://github.com/jenkinsci/performance-plugin) ([1024.ve69e11844523](https://github.com/jenkinsci/performance-plugin/releases/tag/1024.ve69e11844523), 2 weeks ago) - Performance Test Running and Reporting for Jenkins CI
 
 #### 🤝 The last 10 repositories I contributed to
 
-- [a-st/container-foreman](https://github.com/a-st/container-foreman) - A containerized Foreman environment (3 days ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io (4 days ago)
-- [a-st/bitbucket-pipelines-pipe-eslint-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-eslint-reporting) - Bitbucket Pipelines Pipe for ESLint Reporting (6 days ago)
+- [a-st/container-foreman](https://github.com/a-st/container-foreman) - A containerized Foreman environment (4 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io (5 days ago)
+- [a-st/bitbucket-pipelines-pipe-eslint-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-eslint-reporting) - Bitbucket Pipelines Pipe for ESLint Reporting (1 week ago)
 - [a-st/bitbucket-pipelines-pipe-fsrt-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-fsrt-reporting) - Bitbucket Pipelines Pipe for FSRT Reporting (1 week ago)
 - [a-st/sample-repo-renovate-pr-47717](https://github.com/a-st/sample-repo-renovate-pr-47717) - A sample repository for Renovate PR #47717 (1 week ago)
 - [fluent/fluent-bit-docs](https://github.com/fluent/fluent-bit-docs) - Fluent Bit - Official Documentation (3 weeks ago)
