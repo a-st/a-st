@@ -19,23 +19,21 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 #### 🚀 Check out what I'm currently working on
 
 - [a-st/container-foreman](https://github.com/a-st/container-foreman) - A containerized Foreman environment
-- [a-st/sample-repo-renovate-pr-47717](https://github.com/a-st/sample-repo-renovate-pr-47717) - A sample repository for Renovate PR #47717
 - [a-st/bitbucket-pipelines-pipe-fsrt-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-fsrt-reporting) - Bitbucket Pipelines Pipe for FSRT Reporting
 - [a-st/bitbucket-pipelines-pipe-eslint-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-eslint-reporting) - Bitbucket Pipelines Pipe for ESLint Reporting
 - [a-st/nas542-barebox](https://github.com/a-st/nas542-barebox) - NAS542 Barebox env
 
 #### 📦 Latest releases I contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.252.7](https://github.com/renovatebot/renovate/releases/tag/44.252.7), today) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.252.7](https://github.com/renovatebot/renovate/releases/tag/44.252.7), 1 day ago) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jenkinsci/performance-plugin](https://github.com/jenkinsci/performance-plugin) ([1024.ve69e11844523](https://github.com/jenkinsci/performance-plugin/releases/tag/1024.ve69e11844523), 2 weeks ago) - Performance Test Running and Reporting for Jenkins CI
 
 #### 🤝 The last 10 repositories I contributed to
 
-- [a-st/bitbucket-pipelines-pipe-eslint-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-eslint-reporting) - Bitbucket Pipelines Pipe for ESLint Reporting (2 days ago)
-- [a-st/bitbucket-pipelines-pipe-fsrt-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-fsrt-reporting) - Bitbucket Pipelines Pipe for FSRT Reporting (2 days ago)
-- [a-st/container-foreman](https://github.com/a-st/container-foreman) - A containerized Foreman environment (6 days ago)
+- [a-st/bitbucket-pipelines-pipe-eslint-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-eslint-reporting) - Bitbucket Pipelines Pipe for ESLint Reporting (3 days ago)
+- [a-st/bitbucket-pipelines-pipe-fsrt-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-fsrt-reporting) - Bitbucket Pipelines Pipe for FSRT Reporting (3 days ago)
+- [a-st/container-foreman](https://github.com/a-st/container-foreman) - A containerized Foreman environment (1 week ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 week ago)
-- [a-st/sample-repo-renovate-pr-47717](https://github.com/a-st/sample-repo-renovate-pr-47717) - A sample repository for Renovate PR #47717 (1 week ago)
 - [fluent/fluent-bit-docs](https://github.com/fluent/fluent-bit-docs) - Fluent Bit - Official Documentation (4 weeks ago)
 - [jenkinsci/performance-plugin](https://github.com/jenkinsci/performance-plugin) - Performance Test Running and Reporting for Jenkins CI (1 month ago)
 
