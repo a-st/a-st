@@ -25,7 +25,7 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 
 #### 📦 Latest releases I contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.252.7](https://github.com/renovatebot/renovate/releases/tag/44.252.7), 1 day ago) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.253.0](https://github.com/renovatebot/renovate/releases/tag/44.253.0), today) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jenkinsci/performance-plugin](https://github.com/jenkinsci/performance-plugin) ([1024.ve69e11844523](https://github.com/jenkinsci/performance-plugin/releases/tag/1024.ve69e11844523), 2 weeks ago) - Performance Test Running and Reporting for Jenkins CI
 
 #### 🤝 The last 10 repositories I contributed to
