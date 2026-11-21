@@ -25,7 +25,7 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 
 #### 📦 Latest releases I contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.257.6](https://github.com/renovatebot/renovate/releases/tag/44.257.6), today) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.257.9](https://github.com/renovatebot/renovate/releases/tag/44.257.9), today) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jenkinsci/performance-plugin](https://github.com/jenkinsci/performance-plugin) ([1024.ve69e11844523](https://github.com/jenkinsci/performance-plugin/releases/tag/1024.ve69e11844523), 2 weeks ago) - Performance Test Running and Reporting for Jenkins CI
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.3.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.3.0), 2 months ago) - Bolt integration plugin for Foreman
 
