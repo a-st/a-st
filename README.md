@@ -25,18 +25,18 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 
 #### 📦 Latest releases I contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.261.1](https://github.com/renovatebot/renovate/releases/tag/44.261.1), today) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.4.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.4.0), today) - Bolt integration plugin for Foreman
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.261.2](https://github.com/renovatebot/renovate/releases/tag/44.261.2), 1 day ago) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.4.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.4.0), 1 day ago) - Bolt integration plugin for Foreman
 - [jenkinsci/performance-plugin](https://github.com/jenkinsci/performance-plugin) ([1024.ve69e11844523](https://github.com/jenkinsci/performance-plugin/releases/tag/1024.ve69e11844523), 3 weeks ago) - Performance Test Running and Reporting for Jenkins CI
 
 #### 🤝 The last 10 repositories I contributed to
 
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (today)
-- [theforeman/smart-proxy](https://github.com/theforeman/smart-proxy) - RESTful proxies for DNS, DHCP, TFTP, BMC and Puppet (6 days ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (1 day ago)
+- [theforeman/smart-proxy](https://github.com/theforeman/smart-proxy) - RESTful proxies for DNS, DHCP, TFTP, BMC and Puppet (1 week ago)
 - [a-st/bitbucket-pipelines-pipe-eslint-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-eslint-reporting) - Bitbucket Pipelines Pipe for ESLint Reporting (1 week ago)
 - [a-st/bitbucket-pipelines-pipe-fsrt-reporting](https://github.com/a-st/bitbucket-pipelines-pipe-fsrt-reporting) - Bitbucket Pipelines Pipe for FSRT Reporting (1 week ago)
 - [a-st/container-foreman](https://github.com/a-st/container-foreman) - A containerized Foreman environment (1 week ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 week ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 weeks ago)
 - [fluent/fluent-bit-docs](https://github.com/fluent/fluent-bit-docs) - Fluent Bit - Official Documentation (1 month ago)
 - [jenkinsci/performance-plugin](https://github.com/jenkinsci/performance-plugin) - Performance Test Running and Reporting for Jenkins CI (1 month ago)
 
