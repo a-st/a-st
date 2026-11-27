@@ -25,8 +25,8 @@ The name's Alex, passionate software developer and Linux enthusiast. Not afraid 
 
 #### 📦 Latest releases I contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([45.1.0](https://github.com/renovatebot/renovate/releases/tag/45.1.0), 1 day ago) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.4.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.4.0), 3 days ago) - Bolt integration plugin for Foreman
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([45.3.2](https://github.com/renovatebot/renovate/releases/tag/45.3.2), today) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.5.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.5.0), today) - Bolt integration plugin for Foreman
 
 #### 🤝 The last 10 repositories I contributed to
 
